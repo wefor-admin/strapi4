@@ -1,4 +1,4 @@
-# Strapi v4 template for Platform.sh
+# Strapi v4 template for Platform.sh launch
 
 <p align="center">
 <a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/strapi4/.platform.template.yaml&utm_content=strapi4&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
